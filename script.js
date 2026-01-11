@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDv0DHQU84zSYKSaMIkZ1ahw1np7g6N73E",
+  apiKey: "AIzaSyC3nWCiwwcWHgm50CDjUoFE6URPOi6hvLU",
   authDomain: "smart-campus-lost-found.firebaseapp.com",
   projectId: "smart-campus-lost-found",
   storageBucket: "smart-campus-lost-found.firebasestorage.app",
@@ -154,6 +154,7 @@ if (foundContainer) {
       });
     });
 }
+
 
 
 
