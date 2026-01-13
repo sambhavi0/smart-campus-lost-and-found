@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyC3nWCiwwcWHgm50CDjUoFE6URPOi6hvLU",
+  apiKey: " ",
   authDomain: "smart-campus-lost-found.firebaseapp.com",
   projectId: "smart-campus-lost-found",
   storageBucket: "smart-campus-lost-found.firebasestorage.app",
-  messagingSenderId: "9080335224",
-  appId: "1:9080335224:web:feec2338dea084a595768d",
-  measurementId: "G-JYHK8PXYXL"
+  messagingSenderId: " ",
+  appId: " ",
+  measurementId: " "
 };
 
 firebase.initializeApp(firebaseConfig);
@@ -154,6 +154,7 @@ if (foundContainer) {
       });
     });
 }
+
 
 
 
