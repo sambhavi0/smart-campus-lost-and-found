@@ -19,4 +19,4 @@ A web application that helps students report and find lost items on campus.
 
 ### Google Technologies Used
 - Firebase Firestore
-### MVP:https://sambhavi0.github.io/smart-campus-lost-and-found/view-items.html
+### MVP:https://sambhavi0.github.io/smart-campus-lost-and-found/
